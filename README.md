@@ -1,6 +1,6 @@
 # Main Projects
 
-**Project Mammoth  
+**Project Mammoth**
 
 Third person multiplayer co-operative shooter game where players and their friends can connect online and fight through alien worlds. Players can collect materials and build medical items, equipment, weapon attachments and more.  
 
